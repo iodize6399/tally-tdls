@@ -1,4 +1,4 @@
-[#Menu :Gate way of Tally]
+[#Menu :Gateway of Tally]
 Add :Button :Refresh TDL
 
 [Button :Refresh TDL]
